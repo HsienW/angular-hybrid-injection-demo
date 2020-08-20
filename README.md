@@ -1,3 +1,3 @@
-# Angular8 starter kit
+# Angular Hybrid Injection Demo
 
 
